@@ -1,4 +1,4 @@
-MacOS 16.5 Catalina EFI  
+MacOS 16.5 Catalina EFI  for S200 i7 8850H 
 
 update Lilu 1.4.5  
 
