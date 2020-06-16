@@ -6,4 +6,6 @@ update whatevergreen 1.4.0
 
 update clover_r5119  
 
+Fixup BCM943224PCIEBIT airdrop in Catalina 15.5.5  
+
 Modified by Xanadu314

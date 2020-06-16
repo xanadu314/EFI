@@ -97,7 +97,7 @@
 		<key>NoEarlyProgress</key>
 		<true/>
 		<key>Timeout</key>
-		<integer>2</integer>
+		<integer>1</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -175,11 +175,11 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>BwCbPg==</data>
+				<data>AAASWQ==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal</string>
 				<key>device-id</key>
-				<data>mz4AAA==</data>
+				<data>ElkAAA==</data>
 				<key>device_type</key>
 				<string>Graphics Device</string>
 				<key>enable-hdmi-dividers-fix</key>
